@@ -1,0 +1,21 @@
+{
+  "name": "anguler_test",
+  "authors": [
+    "TakashiSato <takashisato.235711@gmail.com>"
+  ],
+  "description": "hoge",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}
